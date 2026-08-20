@@ -4,6 +4,7 @@
   "private": true,
   "description": "Marketing website for Eastern Pest Control",
   "scripts": {
+    "build": "node scripts/build.js",
     "dev": "node server.js",
     "start": "node server.js"
   }
