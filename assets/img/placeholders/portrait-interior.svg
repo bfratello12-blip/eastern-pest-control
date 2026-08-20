@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-label="Portrait · interior inspection placeholder">
+  <defs><pattern id="h" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="20" height="20" fill="#EDE9E5"/><rect width="10" height="20" fill="#E4DFD9"/></pattern></defs>
+  <rect width="900" height="1200" fill="url(#h)"/>
+  <rect x="2.5" y="2.5" width="895" height="1195" fill="none" stroke="#D3CBC3" stroke-width="5"/>
+  <rect x="0" y="0" width="5" height="1200" fill="#D21217"/>
+  <g transform="translate(396,369) scale(0.900)" fill="#C2B8AE"><path d="M8 20h26l10-12h32l10 12h26a8 8 0 0 1 8 8v52a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V28a8 8 0 0 1 8-8Z"/><circle cx="60" cy="56" r="22" fill="#EDE9E5"/><circle cx="60" cy="56" r="12" fill="#C2B8AE"/></g>
+  <text x="450" y="546" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="3.6" fill="#D21217">PORTRAIT · INTERIOR INSPECTION</text>
+  <text x="450" y="625" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">Vertical frame of a technician</text>
+  <text x="450" y="691" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">with a flashlight checking under a</text>
+  <text x="450" y="757" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">sink or along a baseboard.</text>
+  <text x="450" y="823" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="36" letter-spacing="2" fill="#A79C91">900 × 1200</text>
+</svg>

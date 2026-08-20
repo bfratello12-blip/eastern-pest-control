@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Service area map placeholder">
+  <rect width="1200" height="900" fill="#E9E4DE"/>
+  <g stroke="#DAD3CA" stroke-width="2">
+  <path d="M0 150h1200"/>
+  <path d="M0 300h1200"/>
+  <path d="M0 450h1200"/>
+  <path d="M0 600h1200"/>
+  <path d="M0 750h1200"/>
+  <path d="M171 0v900"/>
+  <path d="M343 0v900"/>
+  <path d="M514 0v900"/>
+  <path d="M686 0v900"/>
+  <path d="M857 0v900"/>
+  <path d="M1029 0v900"/>
+  </g>
+  <path d="M0 378 L240 324 L504 414 L744 306 L983.9999999999999 396 L1200 342 L1200 900 L0 900Z" fill="#DFD8D0"/>
+  <path d="M0 558 L312 522 L600 612 L888 531 L1200 585" fill="none" stroke="#CFC6BC" stroke-width="6"/>
+  <g transform="translate(600,234)"><path d="M0-46c-21 0-38 17-38 38 0 26 38 58 38 58s38-32 38-58c0-21-17-38-38-38Z" fill="#D21217"/><circle cx="0" cy="-9" r="14" fill="#FFFFFF"/></g>
+  <rect x="2.5" y="2.5" width="1195" height="895" fill="none" stroke="#D3CBC3" stroke-width="5"/>
+  <rect x="0" y="0" width="7" height="900" fill="#D21217"/>
+  <text x="600" y="462" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="4.8" fill="#D21217">SERVICE AREA MAP</text>
+  <text x="600" y="545" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">Swap for an embedded Google Map, or export a</text>
+  <text x="600" y="611" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">styled static map with a pin on each of the</text>
+  <text x="600" y="677" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">six branches.</text>
+  <text x="600" y="743" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="36" letter-spacing="2" fill="#A79C91">1200 × 900</text>
+</svg>

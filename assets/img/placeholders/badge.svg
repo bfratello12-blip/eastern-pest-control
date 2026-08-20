@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 210" width="480" height="210" role="img" aria-label="Award / certification logo placeholder">
+  <defs><pattern id="h" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="20" height="20" fill="#EDE9E5"/><rect width="10" height="20" fill="#E4DFD9"/></pattern></defs>
+  <rect width="480" height="210" fill="url(#h)"/>
+  <rect x="1.5" y="1.5" width="477" height="207" fill="none" stroke="#D3CBC3" stroke-width="3"/>
+  <rect x="0" y="0" width="4" height="210" fill="#D21217"/>
+  <text x="240" y="73" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="1.8" fill="#D21217">AWARD / CERTIFICATION LOGO</text>
+  <text x="240" y="103" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" fill="#6E655C">Vector or transparent PNG. Dark mark on a light</text>
+  <text x="240" y="127" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" fill="#6E655C">ground with generous padding.</text>
+  <text x="240" y="151" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="2" fill="#A79C91">480 × 210</text>
+</svg>

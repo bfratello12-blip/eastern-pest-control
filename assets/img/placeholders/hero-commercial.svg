@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 640" width="1600" height="640" role="img" aria-label="Page hero · commercial placeholder">
+  <defs><pattern id="h" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="20" height="20" fill="#EDE9E5"/><rect width="10" height="20" fill="#E4DFD9"/></pattern></defs>
+  <rect width="1600" height="640" fill="url(#h)"/>
+  <rect x="1.5" y="1.5" width="1597" height="637" fill="none" stroke="#D3CBC3" stroke-width="3"/>
+  <rect x="0" y="0" width="10" height="640" fill="#D21217"/>
+  <g transform="translate(1130,37) scale(0.640)" fill="#C2B8AE"><path d="M8 20h26l10-12h32l10 12h26a8 8 0 0 1 8 8v52a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V28a8 8 0 0 1 8-8Z"/><circle cx="60" cy="56" r="22" fill="#EDE9E5"/><circle cx="60" cy="56" r="12" fill="#C2B8AE"/></g>
+  <text x="1168" y="198" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="4.6" fill="#D21217">PAGE HERO · COMMERCIAL</text>
+  <text x="1168" y="277" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#6E655C">Back of house at a real client</text>
+  <text x="1168" y="340" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#6E655C">site — loading dock, prep kitchen</text>
+  <text x="1168" y="403" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#6E655C">or warehouse aisle. Wide angle,</text>
+  <text x="1168" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#6E655C">lights on, no third party branding</text>
+  <text x="1168" y="529" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#6E655C">you cannot clear.</text>
+  <text x="1168" y="592" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="34" letter-spacing="2" fill="#A79C91">1600 × 640</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720" role="img" aria-label="Staff headshot placeholder">
+  <defs><pattern id="h" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="20" height="20" fill="#EDE9E5"/><rect width="10" height="20" fill="#E4DFD9"/></pattern></defs>
+  <rect width="600" height="720" fill="url(#h)"/>
+  <rect x="1.5" y="1.5" width="597" height="717" fill="none" stroke="#D3CBC3" stroke-width="3"/>
+  <rect x="0" y="0" width="4" height="720" fill="#D21217"/>
+  <g transform="translate(264,99) scale(0.600)" fill="#C2B8AE"><path d="M8 20h26l10-12h32l10 12h26a8 8 0 0 1 8 8v52a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V28a8 8 0 0 1 8-8Z"/><circle cx="60" cy="56" r="22" fill="#EDE9E5"/><circle cx="60" cy="56" r="12" fill="#C2B8AE"/></g>
+  <text x="300" y="262" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="4.8" fill="#D21217">STAFF HEADSHOT</text>
+  <text x="300" y="345" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">Shoulders up, in</text>
+  <text x="300" y="411" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">uniform. Same backdrop,</text>
+  <text x="300" y="477" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">crop and eye line for</text>
+  <text x="300" y="543" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">every person.</text>
+  <text x="300" y="609" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="36" letter-spacing="2" fill="#A79C91">600 × 720</text>
+</svg>

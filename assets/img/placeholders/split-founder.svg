@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Split · our story placeholder">
+  <defs><pattern id="h" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="20" height="20" fill="#EDE9E5"/><rect width="10" height="20" fill="#E4DFD9"/></pattern></defs>
+  <rect width="1200" height="900" fill="url(#h)"/>
+  <rect x="2.5" y="2.5" width="1195" height="895" fill="none" stroke="#D3CBC3" stroke-width="5"/>
+  <rect x="0" y="0" width="7" height="900" fill="#D21217"/>
+  <g transform="translate(546,209) scale(0.900)" fill="#C2B8AE"><path d="M8 20h26l10-12h32l10 12h26a8 8 0 0 1 8 8v52a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V28a8 8 0 0 1 8-8Z"/><circle cx="60" cy="56" r="22" fill="#EDE9E5"/><circle cx="60" cy="56" r="12" fill="#C2B8AE"/></g>
+  <text x="600" y="398" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="4.8" fill="#D21217">SPLIT · OUR STORY</text>
+  <text x="600" y="481" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">The founder beside the original truck, or a</text>
+  <text x="600" y="547" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">scanned photo from year one. Authenticity</text>
+  <text x="600" y="613" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#6E655C">beats polish here.</text>
+  <text x="600" y="679" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="36" letter-spacing="2" fill="#A79C91">1200 × 900</text>
+</svg>

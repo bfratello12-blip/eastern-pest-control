@@ -1,0 +1,10 @@
+{
+  "name": "eastern-pest-control-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketing website for Eastern Pest Control",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}

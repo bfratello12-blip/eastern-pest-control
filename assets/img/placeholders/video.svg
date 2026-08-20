@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Testimonial video thumbnail placeholder">
+  <rect width="1280" height="720" fill="#241716"/>
+  <path d="M0 475.20000000000005 L256 417.59999999999997 L512 511.2 L768 396.00000000000006 L1024 496.79999999999995 L1280 417.59999999999997 L1280 720 L0 720Z" fill="#3B1511" opacity="0.6"/>
+  <g transform="translate(640,216)"><circle r="65" fill="#D21217"/><path d="M-21.599999999999998 -32.4 L39.6 0 L-21.599999999999998 32.4Z" fill="#FFFFFF"/></g>
+  <rect x="2" y="2" width="1276" height="716" fill="none" stroke="#4A322D" stroke-width="4"/>
+  <rect x="0" y="0" width="8" height="720" fill="#D21217"/>
+  <text x="640" y="379" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="4.8" fill="#D21217">TESTIMONIAL VIDEO THUMBNAIL</text>
+  <text x="640" y="462" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#D8CFC7">Frame grab of the customer mid sentence at home.</text>
+  <text x="640" y="528" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#D8CFC7">Link the tile out to YouTube or Vimeo.</text>
+  <text x="640" y="594" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="36" letter-spacing="2" fill="#8C8078">1280 × 720</text>
+</svg>
