@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-labelledby="hqTitle hqDesc">
+  <title id="hqTitle">Eastern Pest Control headquarters location map</title>
+  <desc id="hqDesc">Map showing the Eastern Pest Control headquarters at 88 Willis Avenue, Mineola, New York, in Nassau County.</desc>
+
+  <rect width="1200" height="900" fill="#ece7e2"/>
+
+  <g fill="#e4ddd6">
+    <rect x="60" y="70" width="330" height="200" rx="6"/>
+    <rect x="430" y="70" width="250" height="200" rx="6"/>
+    <rect x="720" y="70" width="420" height="200" rx="6"/>
+    <rect x="60" y="320" width="330" height="180" rx="6"/>
+    <rect x="430" y="320" width="250" height="180" rx="6"/>
+    <rect x="720" y="320" width="420" height="180" rx="6"/>
+    <rect x="60" y="560" width="330" height="270" rx="6"/>
+    <rect x="430" y="560" width="250" height="270" rx="6"/>
+    <rect x="720" y="560" width="420" height="270" rx="6"/>
+  </g>
+
+  <g stroke="#ded5cc" stroke-width="34" stroke-linecap="square">
+    <path d="M0 295H1200M0 530H1200M410 0V900M700 0V900"/>
+  </g>
+  <g stroke="#f5f2ef" stroke-width="26" stroke-linecap="square">
+    <path d="M0 295H1200M0 530H1200M410 0V900M700 0V900"/>
+  </g>
+
+  <g stroke="#ded5cc" stroke-width="16" stroke-linecap="square">
+    <path d="M0 40H1200M0 850H1200M180 0V900M960 0V900"/>
+  </g>
+  <g stroke="#f5f2ef" stroke-width="10" stroke-linecap="square">
+    <path d="M0 40H1200M0 850H1200M180 0V900M960 0V900"/>
+  </g>
+
+  <g font-family="Archivo, 'Public Sans', system-ui, sans-serif" font-size="15" font-weight="700" fill="#8d827a">
+    <text x="80" y="288">JERICHO TURNPIKE</text>
+    <text x="80" y="523">OLD COUNTRY ROAD</text>
+    <text transform="translate(403 700) rotate(-90)">WILLIS AVENUE</text>
+    <text transform="translate(693 250) rotate(-90)">MINEOLA BLVD</text>
+  </g>
+
+  <text x="90" y="130" font-family="Archivo, 'Public Sans', system-ui, sans-serif" font-size="26" font-weight="800" fill="#c9bfb6" letter-spacing="4">MINEOLA</text>
+  <text x="1140" y="130" text-anchor="end" font-family="Archivo, 'Public Sans', system-ui, sans-serif" font-size="16" font-weight="700" fill="#c9bfb6" letter-spacing="2">NASSAU COUNTY</text>
+
+  <g transform="translate(410 412)">
+    <ellipse cx="0" cy="118" rx="34" ry="9" fill="#2a0f0c" opacity="0.18"/>
+    <path d="M0 0c-30 0-54 24-54 54 0 38 54 60 54 60s54-22 54-60c0-30-24-54-54-54z" fill="#d21217" stroke="#2a0f0c" stroke-width="3"/>
+    <circle cx="0" cy="52" r="18" fill="#f5f2ef"/>
+  </g>
+
+  <g transform="translate(470 372)">
+    <rect x="0" y="0" width="470" height="96" rx="10" fill="#3b1511"/>
+    <text x="24" y="40" font-family="Archivo, 'Public Sans', system-ui, sans-serif" font-size="22" font-weight="800" fill="#f5f2ef">Eastern Pest Control</text>
+    <text x="24" y="72" font-family="Archivo, 'Public Sans', system-ui, sans-serif" font-size="18" font-weight="500" fill="#e0d5cf">88 Willis Avenue, Suite 210 &#183; Mineola, NY 11501</text>
+  </g>
+
+  <g transform="translate(70 818)">
+    <path d="M0 0h60M0 -6v12M60 -6v12" stroke="#3b1511" stroke-width="3"/>
+    <text x="70" y="5" font-family="Archivo, 'Public Sans', system-ui, sans-serif" font-size="14" font-weight="600" fill="#3b1511">500 ft</text>
+  </g>
+
+  <g transform="translate(1130 806)">
+    <path d="M0 -20 L8 7 L0 0 L-8 7 Z" fill="#3b1511"/>
+    <text x="0" y="28" font-family="Archivo, 'Public Sans', system-ui, sans-serif" font-size="14" font-weight="700" fill="#3b1511" text-anchor="middle">N</text>
+  </g>
+</svg>

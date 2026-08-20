@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-labelledby="mapTitle mapDesc">
+  <title id="mapTitle">Eastern Pest Control service area map</title>
+  <desc id="mapDesc">Coverage across Queens, Nassau County and Suffolk County, New York.</desc>
+
+  <defs>
+    <path id="longIslandTall" d="M72 302 Q96 280 128 266 Q168 250 206 258 Q248 240 292 250 Q338 236 386 246 Q432 236 480 248 Q528 240 576 250 Q624 244 672 254 Q720 248 768 258 Q816 252 864 262 Q912 252 960 244 Q1010 236 1060 226 Q1100 218 1142 206 L1152 220 Q1110 236 1064 250 Q1014 260 964 272 Q914 284 872 296 Q840 306 806 320 Q838 336 876 346 Q924 356 972 362 Q1020 360 1068 354 Q1110 360 1156 382 L1162 396 Q1112 400 1064 398 Q1016 398 968 404 Q920 414 876 422 Q842 428 812 434 Q760 440 708 444 Q656 448 604 450 Q552 450 500 446 Q448 442 396 438 Q344 432 292 426 Q240 418 190 408 Q140 396 104 372 Q80 344 72 302 Z"/>
+    <clipPath id="islandClipTall"><use href="#longIslandTall" transform="translate(0 122)"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="900" fill="#ece7e2"/>
+
+  <g stroke="#e2dbd4" stroke-width="1">
+    <path d="M100 0V900M200 0V900M300 0V900M400 0V900M500 0V900M600 0V900M700 0V900M800 0V900M900 0V900M1000 0V900M1100 0V900"/>
+    <path d="M0 100H1200M0 200H1200M0 300H1200M0 400H1200M0 500H1200M0 600H1200M0 700H1200M0 800H1200"/>
+  </g>
+
+  <path d="M0 290 L34 304 L52 336 L44 380 L58 424 L46 470 L26 514 L0 546 Z" fill="#ded5cc"/>
+  <text x="14" y="422" font-family="Archivo, 'Public Sans', system-ui, sans-serif" font-size="14" font-weight="600" fill="#8d827a" letter-spacing="1.2">BKLYN</text>
+
+  <g clip-path="url(#islandClipTall)">
+    <rect x="0" y="0" width="170" height="900" fill="#d21217"/>
+    <rect x="170" y="0" width="185" height="900" fill="#9d0f13"/>
+    <rect x="355" y="0" width="845" height="900" fill="#3b1511"/>
+  </g>
+
+  <g clip-path="url(#islandClipTall)" stroke="#f5f2ef" stroke-width="2.5" opacity="0.6">
+    <path d="M170 0V900M355 0V900"/>
+  </g>
+
+  <use href="#longIslandTall" transform="translate(0 122)" fill="none" stroke="#2a0f0c" stroke-width="3" stroke-linejoin="round"/>
+
+  <g fill="#f5f2ef" stroke="#2a0f0c" stroke-width="2">
+    <circle cx="121" cy="422" r="6"/>
+    <circle cx="258" cy="422" r="8"/>
+    <circle cx="556" cy="440" r="6"/>
+  </g>
+
+  <g font-family="Archivo, 'Public Sans', system-ui, sans-serif" fill="#f5f2ef" text-anchor="middle" font-weight="600">
+    <text x="121" y="446" font-size="11">Forest Hills</text>
+    <text x="258" y="448" font-size="12.5">Mineola &#8212; HQ</text>
+    <text x="556" y="464" font-size="12.5">Hauppauge</text>
+  </g>
+
+  <g font-family="Archivo, 'Public Sans', system-ui, sans-serif" fill="#f5f2ef" text-anchor="middle" font-weight="800">
+    <text x="124" y="484" font-size="13">QUEENS</text>
+    <text x="258" y="488" font-size="20" letter-spacing="1.5">NASSAU</text>
+    <text x="700" y="494" font-size="30" letter-spacing="3">SUFFOLK</text>
+  </g>
+
+  <g font-family="Archivo, 'Public Sans', system-ui, sans-serif" fill="#a2968c" letter-spacing="4" font-size="16" font-weight="600">
+    <text x="600" y="212" text-anchor="middle">LONG ISLAND SOUND</text>
+    <text x="660" y="742" text-anchor="middle">ATLANTIC OCEAN</text>
+  </g>
+
+  <g font-family="Archivo, 'Public Sans', system-ui, sans-serif" fill="#8d827a" font-size="13" font-weight="600">
+    <text x="1150" y="314" text-anchor="end">Orient Point</text>
+    <text x="1172" y="570" text-anchor="end">Montauk</text>
+  </g>
+
+  <g transform="translate(56 818)">
+    <path d="M0 0h44M0 -6v12M44 -6v12" stroke="#3b1511" stroke-width="3"/>
+    <text x="52" y="5" font-family="Archivo, 'Public Sans', system-ui, sans-serif" font-size="13" font-weight="600" fill="#3b1511">10 mi</text>
+  </g>
+
+  <g transform="translate(1132 812)">
+    <path d="M0 -18 L7 6 L0 0 L-7 6 Z" fill="#3b1511"/>
+    <text x="0" y="26" font-family="Archivo, 'Public Sans', system-ui, sans-serif" font-size="13" font-weight="700" fill="#3b1511" text-anchor="middle">N</text>
+  </g>
+</svg>
